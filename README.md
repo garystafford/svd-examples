@@ -13,7 +13,7 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
       <td><img src="videos/couple_on_beach.webp" alt="Couple on Beach" width="512"/></td>
    </tr>
    <tr>
-      <td><img src="videos/skier.webp" alt="Skier" width="512"/></td>br>Image source: https://www.pexels.com/photo/man-using-ski-3193846/</td>
+      <td><img src="videos/skier.webp" alt="Skier" width="512"/></br>Image source: https://www.pexels.com/photo/man-using-ski-3193846/</td>
    </tr>
 </table>
 <table>
