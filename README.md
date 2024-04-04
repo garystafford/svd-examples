@@ -9,11 +9,11 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
    </tr>
    <tr>
       <td><img src="videos/blue_car.webp" alt="Blue Sports Car" width="512"/>
-      </br><a href="https://www.pexels.com/photo/red-alfa-romeo-c4-on-road-near-trees-210019">Image source</a></td>
+      </br><a href="https://pxhere.com/en/photo/1551833">Image source</a></td>
    </tr>
    <tr>
       <td><img src="videos/couple_on_beach.webp" alt="Couple on Beach" width="512"/>
-      </br><a href="https://www.pexels.com/photo/red-alfa-romeo-c4-on-road-near-trees-210019">Image source</a></td>
+      </br><a href="https://www.shutterstock.com/image-photo/happy-romantic-middle-aged-couple-enjoying-352166360">Image source</a></td>
    </tr>
    <tr>
       <td><img src="videos/skier.webp" alt="Skier" width="512"/>
@@ -25,7 +25,7 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
       <td><img src="videos/turkish_coffee.webp" alt="Turkish Coffee" width="387"/>
       </br><a href="https://www.pexels.com/photo/a-shot-of-steaming-pot-with-a-and-glass-with-a-beverage-10351409/">Image source</a></td>
       <td><img src="videos/pouring_champagne.webp" alt="Pouring Champagne" width="387"/>
-      </br><a href="https://www.pexels.com/photo/a-shot-of-steaming-pot-with-a-and-glass-with-a-beverage-10351409/">Image source</a></td>
+      </br><a href="https://www.pexels.com/photo/close-up-of-beer-glass-against-black-background-255483/">Image source</a></td>
    </tr>
    <tr>
       <td><img src="videos/candle_2.webp" alt="Burning Candle" width="387"/>
