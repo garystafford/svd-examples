@@ -15,10 +15,10 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
    <tr>
       <td><img src="videos/skier.webp" alt="Skier" width="512"/></td>
    </tr>
+</table>
+<table>
    <tr>
       <td><img src="videos/turkish_coffee.webp" alt="Turkish Coffee" width="387"/></td>
-   </tr>
-   <tr>
       <td><img src="videos/pouring_champagne.webp" alt="Pouring Champagne" width="387"/></td>
    </tr>
    <tr>
