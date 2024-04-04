@@ -5,3 +5,7 @@ Created with Stability AIʼs latest Stable Video Diffusion 1.1 Image-to-Video la
 <img src="ComfyUI_00309_.webp" alt="Sports Car" width="512"/>
 
 <img src="ezgif-3-81a7fc89fb.webp" alt="Skiing" width="512"/>
+
+<img src="AnimateDiff_00033-ezgif.com-video-to-webp-converter.webp" alt="Pouring Champagne" width="256"/>
+
+
