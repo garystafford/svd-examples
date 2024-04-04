@@ -4,7 +4,7 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
 
 <table>
    <tr>
-      <td><img src="videos/red_car.webp" alt="Red Sports Car" width="512"/></br>Iage source: https://www.pexels.com/photo/red-alfa-romeo-c4-on-road-near-trees-210019/</td>
+      <td><img src="videos/red_car.webp" alt="Red Sports Car" width="512"/></br>Image source: https://www.pexels.com/photo/red-alfa-romeo-c4-on-road-near-trees-210019/</td>
    </tr>
    <tr>
       <td><img src="videos/blue_car.webp" alt="Blue Sports Car" width="512"/></td>
