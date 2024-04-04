@@ -8,7 +8,7 @@ Created with Stability AIʼs latest Stable Video Diffusion 1.1 Image-to-Video la
 
 <img src="AnimateDiff_00005.mp4-SlowMotion-ezgif.com-video-to-webp-converter.webp" alt="Blue Sports Car" width="512"/>
 
-<img src="ComfyUI_00320_.webp" alt="Couple on Beach" width="512"/>
+<img src="AnimateDiff_000071-ezgif.com-video-to-webp-converter.webp" alt="Couple on Beach" width="512"/>
 
 <img src="AnimateDiff_00033-ezgif.com-video-to-webp-converter.webp" alt="Pouring Champagne" width="256"/>
 
