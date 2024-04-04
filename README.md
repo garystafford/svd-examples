@@ -6,6 +6,8 @@ Created with Stability AIʼs latest Stable Video Diffusion 1.1 Image-to-Video la
 
 <img src="ezgif-3-81a7fc89fb.webp" alt="Skiing" width="512"/>
 
+<img src="AnimateDiff_00005.mp4-SlowMotion-ezgif.com-video-to-webp-converter" alt="Skiing" width="512"/>
+
 <img src="AnimateDiff_00033-ezgif.com-video-to-webp-converter.webp" alt="Pouring Champagne" width="256"/>
 
 <img src="AnimateDiff_00016-ezgif.com-video-to-webp-converter.webp" alt="Pouring Champagne" width="256"/>
