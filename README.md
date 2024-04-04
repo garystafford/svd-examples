@@ -22,6 +22,6 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
       <td><img src="videos/pouring_champagne.webp" alt="Pouring Champagne" width="387"/></td>
    </tr>
    <tr>
-      <td><img src="videos/candle.webp" alt="Burning Candle" width="387"/></td>
+      <td><img src="videos/candle_2.webp" alt="Burning Candle" width="387"/></td>
    </tr>
 </table>
