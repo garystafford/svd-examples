@@ -18,7 +18,7 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
 </table>
 <table>
    <tr>
-      <td><img src="videos/turkish_coffee.webp" alt="Turkish Coffee" width="387"/></td>
+      <td><img src="videos/turkish_coffee.webp" alt="Turkish Coffee" width="387"/></br><small>Image source: https://www.pexels.com/photo/a-shot-of-steaming-pot-with-a-and-glass-with-a-beverage-10351409/</small></td>
       <td><img src="videos/pouring_champagne.webp" alt="Pouring Champagne" width="387"/></td>
    </tr>
    <tr>
