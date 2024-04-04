@@ -21,4 +21,7 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
    <tr style="border: none;">
       <td style="border: none;"><img src="videos/pouring_champagne.webp" alt="Pouring Champagne" width="387"/></td>
    </tr>
+   <tr style="border: none;">
+      <td style="border: none;"><img src="videos/candle.webp" alt="Candle" width="387"/></td>
+   </tr>
 </table>
