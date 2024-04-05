@@ -28,7 +28,7 @@ Created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable 
       </br><a href="https://www.pexels.com/photo/red-smoke-illustration-604671/">Image source</a></td>
    </tr>
    <tr>
-      <td><img src="videos/neon_ramen_car.webp" alt="Neon Ramen Car" width="387"/>
+      <td><img src="videos/neon_ramen_cat.webp" alt="Neon Ramen Car" width="387"/>
       </br><a href="https://www.pexels.com/photo/white-candle-278823/">Image source</a></td>
    </tr>
 </table>
