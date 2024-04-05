@@ -17,8 +17,7 @@ All videos were created with [Stability AI](https://stability.ai/stable-video)ʼ
    </tr>
    <tr>
       <td><img src="videos/motorcycle_handlebars.webp" alt="Motorcycle Handlebars" width="387"/>
-      </br><a href="https://www.pexels.com/photo/person-riding-motorcycle-on-road-2519371/
-              ">Source image</a></td>
+      </br><a href="https://www.pexels.com/photo/person-riding-motorcycle-on-road-2519371/">Source image</a></td>
    </tr>
    <tr>
       <td><img src="videos/turkish_coffee.webp" alt="Turkish Coffee" width="387"/>
@@ -38,4 +37,4 @@ All videos were created with [Stability AI](https://stability.ai/stable-video)ʼ
    </tr>
 </table>
 </br>
-<sub><sup>Gary A. Stafford, 2024</sup></sub>
+<div>Gary A. Stafford, 2024</div>
