@@ -38,4 +38,4 @@ All videos were created with [Stability AI](https://stability.ai/stable-video)ʼ
    </tr>
 </table>
 </br>
-<small style="color: #777777">Gary A. Stafford, 2024</small>
+<sub><sup>Gary A. Stafford, 2024</sup></sub>
