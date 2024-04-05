@@ -16,6 +16,11 @@ All videos were created with [Stability AI](https://stability.ai/stable-video)ʼ
       </br><a href="https://www.pexels.com/photo/man-using-ski-3193846/">Source image</a></td>
    </tr>
    <tr>
+      <td><img src="videos/motorcycle_handlebars.webp" alt="Motorcycle Handlebars" width="387"/>
+      </br><a href="https://www.pexels.com/photo/person-riding-motorcycle-on-road-2519371/
+              ">Source image</a></td>
+   </tr>
+   <tr>
       <td><img src="videos/turkish_coffee.webp" alt="Turkish Coffee" width="387"/>
       </br><a href="https://www.pexels.com/photo/a-shot-of-steaming-pot-with-a-and-glass-with-a-beverage-10351409/">Source image</a></td>
       <td><img src="videos/pouring_champagne.webp" alt="Pouring Champagne" width="387"/>
