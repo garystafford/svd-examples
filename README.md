@@ -6,18 +6,18 @@ All videos were created with [Stability AI](https://stability.ai/stable-video)ʼ
    <tr>
       <td><img src="videos/red_car.webp" alt="Red Sports Car" width="387"/>
       </br><a href="https://www.pexels.com/photo/red-alfa-romeo-c4-on-road-near-trees-210019">Source image</a></td>
-      <td><img src="videos/blue_car.webp" alt="Blue Sports Car" width="387"/>
-      </br><a href="https://pxhere.com/en/photo/1551833">Source image</a></td>
+      <td><img src="videos/motorcycle_handlebars.webp" alt="Motorcycle Handlebars" width="387"/>
+      </br><a href="https://www.pexels.com/photo/person-riding-motorcycle-on-road-2519371/">Source image</a></td>
    </tr>
    <tr>
       <td><img src="videos/couple_on_beach.webp" alt="Couple on Beach" width="387"/>
       </br><a href="https://www.shutterstock.com/image-photo/happy-romantic-middle-aged-couple-enjoying-352166360">Source image</a></td>
-      <td><img src="videos/skier.webp" alt="Skier" width="387"/>
-      </br><a href="https://www.pexels.com/photo/man-using-ski-3193846/">Source image</a></td>
+      <td><img src="videos/blue_car.webp" alt="Blue Sports Car" width="387"/>
+      </br><a href="https://pxhere.com/en/photo/1551833">Source image</a></td>
    </tr>
    <tr>
-      <td><img src="videos/motorcycle_handlebars.webp" alt="Motorcycle Handlebars" width="387"/>
-      </br><a href="https://www.pexels.com/photo/person-riding-motorcycle-on-road-2519371/">Source image</a></td>
+      <td><img src="videos/skier.webp" alt="Skier" width="387"/>
+      </br><a href="https://www.pexels.com/photo/man-using-ski-3193846/">Source image</a></td>
    </tr>
    <tr>
       <td><img src="videos/turkish_coffee.webp" alt="Turkish Coffee" width="387"/>
