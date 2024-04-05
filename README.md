@@ -37,3 +37,4 @@ All videos were created with [Stability AI](https://stability.ai/stable-video)ʼ
       </br><a href="https://www.pexels.com/photo/gato-otaku-19138491//">Source image</a></td>
    </tr>
 </table>
+<small>Gary A. Stafford, 2024</small>
