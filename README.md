@@ -18,10 +18,10 @@ All videos were created with [Stability AI](https://stability.ai/stable-video)ʼ
       </br><a href="https://pxhere.com/en/photo/1551833">Source image</a></td>
    </tr>
    <tr>
-      <td><img src="videos/skier.webp" alt="Skier" width="512"/>
-      </br><a href="https://www.pexels.com/photo/man-using-ski-3193846/">Source image</a></td>
       <td><img src="videos/motorcycle_racer.webp" alt="Skier" width="512"/>
       </br><a href="https://www.pexels.com/photo/rider-s-riding-on-gray-and-black-sports-bike-163210/">Source image</a></td>
+      <td><img src="videos/skier.webp" alt="Skier" width="512"/>
+      </br><a href="https://www.pexels.com/photo/man-using-ski-3193846/">Source image</a></td>
    </tr>
 </table>
 
