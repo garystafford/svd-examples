@@ -1,9 +1,11 @@
 # Stability AI Stable Video Diffusion XT 1.1 Examples
 
-All videos were created with [Stability AI](https://stability.ai/stable-video)ʼs latest Stable Video Diffusion XT 1.1 Image-to-Video latent diffusion model (SVD XT 1.1), available on [Hugging Face](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1). These videos were created on Amazon Web Services (AWS) from single images using the SVD XT 1.1 model and [ComfyUI](https://github.com/comfyanonymous/ComfyUI) on a G4dn instance, powered by NVIDIA T4 GPUs. The videos were rendered as MP4 files with recommended 25 frames at an average of 9 fps and a resolution of 1,024 x 576 pixels. The videos were also rendered as [WebP](https://developers.google.com/speed/webp) format files (or in some cases the MP4 file were then converted to WebP) for display in GitHub, shown below.
+All videos were created with [Stability AI](https://stability.ai/stable-video)ʼs Stable Video Diffusion XT 1.1 Image-to-Video latent diffusion model (SVD XT 1.1), available on [Hugging Face](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1). These videos were created on Amazon Web Services (AWS) from single images using the SVD XT 1.1 model and [ComfyUI](https://github.com/comfyanonymous/ComfyUI) on a G4dn instance, powered by NVIDIA T4 GPUs. The videos were rendered as MP4 files with recommended 25 frames at an average of 9 fps and a resolution of 1,024 x 576 pixels. The videos were also rendered as [WebP](https://developers.google.com/speed/webp) format files (or in some cases, the MP4 files were then converted to WebP) for display in GitHub, shown below.
 
 ## ComfyUI Workflow
-The [ComfyUI](workflows/svd_xt_workflow.json) workflow, included in this respository is easy to use. This [workflow](https://comfyanonymous.github.io/ComfyUI_examples/video/) is based on the workflow referenced in the comments for the YouTube video, [Image2Video. Stable Video Diffusion Tutorial.](https://youtu.be/HOVYu2UbgEE?si=N65J15eWrnRh2jPj), by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph).
+The [ComfyUI](workflows/svd_xt_workflow.json) workflow, included in this repository, is easy to use. This [workflow](https://comfyanonymous.github.io/ComfyUI_examples/video/) is based on the workflow referenced in the comments for the YouTube video, [Image2Video. Stable Video Diffusion Tutorial.](https://youtu.be/HOVYu2UbgEE?si=N65J15eWrnRh2jPj), by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph).
+
+![ComfyUI Workflow](comfy_ui_workflow.png)
 
 ## Wide-format Videos
 
