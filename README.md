@@ -4,6 +4,8 @@ All videos I created here were with [Stability AI](https://stability.ai/stable-v
 
 Note that SVD XT 1.1 is a 'Gated model', but, according to the Stable Video Diffusion 1.1 License Agreement, _"Derivative Work(s)" means (a) any derivative work of the Software Products as recognized by U.S. copyright laws and (b) any modifications to a Model, and any other model created which is based on or derived from the Model or the Model’s output._ __For clarity, Derivative Works do not include the output of any Model.__ <<<
 
+One of the best instructional videos I've seen on the subject of what is possible with SVD, is [ComfyUI: Stable Video Diffusion (Workflow Tutorial)](https://www.youtube.com/watch?v=m-ZoxcYNWFg&list=LL&index=7), by ControlAltAI, on YouTube.
+
 
 ## ComfyUI Workflow
 The [ComfyUI](workflows/svd_xt_workflow.json) workflow is included in this repository. It creates both an MP4 and a WebP video file. This [workflow](https://comfyanonymous.github.io/ComfyUI_examples/video/) is based on the workflow referenced in the comments for the YouTube video, [Image2Video. Stable Video Diffusion Tutorial.](https://youtu.be/HOVYu2UbgEE?si=N65J15eWrnRh2jPj), by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph).
