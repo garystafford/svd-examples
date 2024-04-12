@@ -56,4 +56,7 @@ The [ComfyUI](workflows/svd_xt_workflow.json) workflow is included in this repos
    </tr>
 </table>
 </br>
-<div>Gary A. Stafford, 2024</div>
+
+---
+
+_The contents of this repository represent my viewpoints and not of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners._
